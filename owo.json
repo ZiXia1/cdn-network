@@ -1,0 +1,577 @@
+{
+  "颜文字": {
+    "type": "emoticon",
+    "container": [
+      { "icon": "OωO", "text": "Author: DIYgod" },
+      { "icon": "|´・ω・)ノ", "text": "Hi" },
+      { "icon": "ヾ(≧∇≦*)ゝ", "text": "开心" },
+      { "icon": "(☆ω☆)", "text": "星星眼" },
+      { "icon": "（╯‵□′）╯︵┴─┴", "text": "掀桌" },
+      { "icon": "￣﹃￣", "text": "流口水" },
+      { "icon": "(/ω＼)", "text": "捂脸" },
+      { "icon": "∠( ᐛ 」∠)＿", "text": "给跪" },
+      { "icon": "(๑•̀ㅁ•́ฅ)", "text": "Hi" },
+      { "icon": "→_→", "text": "斜眼" },
+      { "icon": "୧(๑•̀⌄•́๑)૭", "text": "加油" },
+      { "icon": "٩(ˊᗜˋ*)و", "text": "有木有WiFi" },
+      { "icon": "(ノ°ο°)ノ", "text": "前方高能预警" },
+      { "icon": "(´இ皿இ｀)", "text": "我从未见过如此厚颜无耻之人" },
+      { "icon": "⌇●﹏●⌇", "text": "吓死宝宝惹" },
+      { "icon": "(ฅ´ω`ฅ)", "text": "已阅留爪" },
+      { "icon": "(╯°A°)╯︵○○○", "text": "去吧大师球" },
+      { "icon": "φ(￣∇￣o)", "text": "太萌惹" },
+      { "icon": "ヾ(´･ ･｀｡)ノ\"", "text": "咦咦咦" },
+      { "icon": "( ง ᵒ̌皿ᵒ̌)ง⁼³₌₃", "text": "气呼呼" },
+      { "icon": "(ó﹏ò｡)", "text": "我受到了惊吓" },
+      { "icon": "Σ(っ °Д °;)っ", "text": "什么鬼" },
+      { "icon": "( ,,´･ω･)ﾉ\"(´っω･｀｡)", "text": "摸摸头" },
+      { "icon": "╮(╯▽╰)╭ ", "text": "无奈" },
+      { "icon": "o(*////▽////*)q ", "text": "脸红" },
+      { "icon": "＞﹏＜", "text": "" },
+      { "icon": "( ๑´•ω•) \"(ㆆᴗㆆ)", "text": "" }
+    ]
+  },
+  "Emoji": {
+    "type": "emoji",
+    "container": [
+      { "icon": "😂", "text": "" },
+      { "icon": "😀", "text": "" },
+      { "icon": "😅", "text": "" },
+      { "icon": "😊", "text": "" },
+      { "icon": "🙂", "text": "" },
+      { "icon": "🙃", "text": "" },
+      { "icon": "😌", "text": "" },
+      { "icon": "😍", "text": "" },
+      { "icon": "😘 ", "text": "" },
+      { "icon": "😜", "text": "" },
+      { "icon": "😝", "text": "" },
+      { "icon": "😏", "text": "" },
+      { "icon": "😒", "text": "" },
+      { "icon": "🙄", "text": "" },
+      { "icon": "😳 ", "text": "" },
+      { "icon": "😡", "text": "" },
+      { "icon": "😔", "text": "" },
+      { "icon": "😫", "text": "" },
+      { "icon": "😱", "text": "" },
+      { "icon": "😭", "text": "" },
+      { "icon": "💩", "text": "" },
+      { "icon": "👻", "text": "" },
+      { "icon": "🙌", "text": "" },
+      { "icon": "🖕", "text": "" },
+      { "icon": "👍", "text": "" },
+      { "icon": "👫", "text": "" },
+      { "icon": "👬", "text": "" },
+      { "icon": "👭", "text": "" },
+      { "icon": "🌚", "text": "" },
+      { "icon": "🌝", "text": "" },
+      { "icon": "🙈", "text": "" },
+      { "icon": "💊", "text": "" },
+      { "icon": "😶", "text": "" },
+      { "icon": "🙏", "text": "" },
+      { "icon": "🍦", "text": "" },
+      { "icon": "🍉", "text": "" },
+      { "icon": "😣", "text": "" }
+    ]
+  },
+  "Bilibili": {
+    "type": "image",
+    "container": [
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/6ea59c827c414b4a2955fe79e0f6fd3dcd515e24.png\">", "text": "tv_doge" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/a8111ad55953ef5e3be3327ef94eb4a39d535d06.png\">", "text": "tv_亲亲" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/bb690d4107620f1c15cff29509db529a73aee261.png\">", "text": "tv_偷笑" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/180129b8ea851044ce71caf55cc8ce44bd4a4fc8.png\">", "text": "tv_再见" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/b9cbc755c2b3ee43be07ca13de84e5b699a3f101.png\">", "text": "tv_冷漠" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/34ba3cd204d5b05fec70ce08fa9fa0dd612409ff.png\">", "text": "tv_发怒" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/34db290afd2963723c6eb3c4560667db7253a21a.png\">", "text": "tv_发财" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/9e55fd9b500ac4b96613539f1ce2f9499e314ed9.png\">", "text": "tv_可爱" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/09dd16a7aa59b77baa1155d47484409624470c77.png\">", "text": "tv_吐血" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/fe1179ebaa191569b0d31cecafe7a2cd1c951c9d.png\">", "text": "tv_呆" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/9f996894a39e282ccf5e66856af49483f81870f3.png\">", "text": "tv_呕吐" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/241ee304e44c0af029adceb294399391e4737ef2.png\">", "text": "tv_困" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/1f0b87f731a671079842116e0991c91c2c88645a.png\">", "text": "tv_坏笑" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/093c1e2c490161aca397afc45573c877cdead616.png\">", "text": "tv_大佬" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/23269aeb35f99daee28dda129676f6e9ea87934f.png\">", "text": "tv_大哭" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/d04dba7b5465779e9755d2ab6f0a897b9b33bb77.png\">", "text": "tv_委屈" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/a37683fb5642fa3ddfc7f4e5525fd13e42a2bdb1.png\">", "text": "tv_害羞" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/7cfa62dafc59798a3d3fb262d421eeeff166cfa4.png\">", "text": "tv_尴尬" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/70dc5c7b56f93eb61bddba11e28fb1d18fddcd4c.png\">", "text": "tv_微笑" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/90cf159733e558137ed20aa04d09964436f618a1.png\">", "text": "tv_思考" },
+      { "icon": "<img src=\"https://owo.imaegoo.com/bilibili/0d15c7e2ee58e935adc6a7193ee042388adc22af.png\">", "text": "tv_惊吓" }
+    ]
+  },
+	"柏田": {
+		"type": "image",
+		"container": [
+			{
+				"text": "柏田-file_6574832",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574832.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574833",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574833.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574834",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574834.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574835",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574835.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574836",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574836.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574837",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574837.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574838",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574838.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574839",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574839.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574840",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574840.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574841",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574841.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574842",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574842.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574843",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574843.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574844",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574844.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574845",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574845.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574846",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574846.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574847",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574847.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574848",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574848.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574849",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574849.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574850",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574850.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574851",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574851.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574852",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574852.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574853",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574853.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574854",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574854.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574855",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574855.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574856",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574856.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574857",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574857.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574858",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574858.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574859",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574859.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574860",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574860.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574861",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574861.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574862",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574862.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574863",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574863.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574864",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574864.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574865",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574865.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574866",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574866.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574867",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574867.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574868",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574868.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574869",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574869.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574870",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574870.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574871",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574871.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574872",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574872.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574873",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574873.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574874",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574874.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574875",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574875.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574876",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574876.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574877",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574877.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574878",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574878.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574879",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574879.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574880",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574880.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574881",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574881.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574882",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574882.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574883",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574883.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574885",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574885.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574887",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574887.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574888",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574888.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574890",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574890.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574891",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574891.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574893",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574893.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574895",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574895.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574898",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574898.WEBP'>"
+			},
+			{
+				"text": "柏田-file_6574899",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/baitian/file_6574899.WEBP'>"
+			}
+		]
+	},
+	"Mafumafu": {
+		"type": "image",
+		"container": [
+			{
+				"text": "Mafumafu-199749454",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749454.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749455",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749455.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749456",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749456.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749457",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749457.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749458",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749458.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749459",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749459.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749460",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749460.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749461",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749461.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749462",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749462.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749463",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749463.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749464",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749464.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749465",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749465.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749466",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749466.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749467",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749467.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749468",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749468.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749469",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749469.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749470",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749470.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749471",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749471.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749472",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749472.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749473",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749473.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749474",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749474.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749475",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749475.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749476",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749476.PNG'>"
+			},
+			{
+				"text": "Mafumafu-199749477",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/Mafumafu/199749477.PNG'>"
+			}
+		]
+	},
+	"default": {
+		"type": "image",
+		"container": [
+			{
+				"text": "default-01",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/01.WEBP'>"
+			},
+			{
+				"text": "default-010",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/010.WEBP'>"
+			},
+			{
+				"text": "default-011",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/011.WEBP'>"
+			},
+			{
+				"text": "default-012",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/012.WEBP'>"
+			},
+			{
+				"text": "default-013",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/013.WEBP'>"
+			},
+			{
+				"text": "default-014",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/014.WEBP'>"
+			},
+			{
+				"text": "default-016",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/016.WEBP'>"
+			},
+			{
+				"text": "default-017",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/017.WEBP'>"
+			},
+			{
+				"text": "default-018",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/018.JPEG'>"
+			},
+			{
+				"text": "default-019",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/019.WEBP'>"
+			},
+			{
+				"text": "default-02",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/02.WEBP'>"
+			},
+			{
+				"text": "default-020",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/020.WEBP'>"
+			},
+			{
+				"text": "default-021",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/021.WEBP'>"
+			},
+			{
+				"text": "default-022",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/022.WEBP'>"
+			},
+			{
+				"text": "default-023",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/023.WEBP'>"
+			},
+			{
+				"text": "default-024",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/024.WEBP'>"
+			},
+			{
+				"text": "default-025",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/025.JPEG'>"
+			},
+			{
+				"text": "default-026",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/026.WEBP'>"
+			},
+			{
+				"text": "default-027",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/027.WEBP'>"
+			},
+			{
+				"text": "default-028",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/028.WEBP'>"
+			},
+			{
+				"text": "default-029",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/029.WEBP'>"
+			},
+			{
+				"text": "default-03",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/03.JPEG'>"
+			},
+			{
+				"text": "default-030",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/030.GIF'>"
+			},
+			{
+				"text": "default-031",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/031.WEBP'>"
+			},
+			{
+				"text": "default-04",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/04.JPEG'>"
+			},
+			{
+				"text": "default-05",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/05.GIF'>"
+			},
+			{
+				"text": "default-06",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/06.GIF'>"
+			},
+			{
+				"text": "default-07",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/07.WEBP'>"
+			},
+			{
+				"text": "default-08",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/08.WEBP'>"
+			},
+			{
+				"text": "default-09",
+				"icon": "<img src='https://rp-jsd.wuw.moe/gh/ZiXia1/cdn-network@emotions/default/09.WEBP'>"
+			}
+		]
+	}
+}
